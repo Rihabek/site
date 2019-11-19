@@ -21,14 +21,18 @@ h1{
 header h2 {
   color: lightgray;
   font-family: fantasy;
-  font-size: x-large;
+  font-size: 40px;;
   padding: 20px;
+  font-family: 'Dancing Script', cursive;
+
 
 
 }
 
 .navbar-nav {
   text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
 #menu {
   display: block;
@@ -62,11 +66,6 @@ footer {
 }
  /* contact */
 
-.container p {
-  font-size: 20px;
-  color: #400404 ;
-}
-
 .fab{
   font-size: 50px;
 }
@@ -81,4 +80,23 @@ footer {
 
 .blop {
   margin: 30px;
+}
+
+.intro{
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  color: gray;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  font-weight: bold;
+
+}
+.title{
+  text-decoration: underline;
+  font-size: 50px;
+  color: lightgray;
+}
+.text{
+  margin-bottom: 100px;
 }
